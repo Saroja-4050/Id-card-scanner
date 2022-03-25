@@ -9,23 +9,21 @@ The information scanned from the ID card can thus be used to determine whether o
 
 The above documentation contains
 
-CONTENTS
-
 ABSTRACT	
 LIST OF FIGURES
-1.	Introduction
-2.	1.1 Introduction
-1.2 Objective of the project
-1.3 Organization of the report
-2. System Specifications
-2.1 Software Specification
-2.2 Hardware Specification
-3. Design & Implementation
-3.1 Introduction
-3.2 Source Code
-3.2.1 Output Screens
-3.3 Testing and Validation
-4. Conclusion
+Introduction
+Introduction
+Objective of the project
+Organization of the report
+System Specifications
+Software Specification
+Hardware Specification
+Design & Implementation
+Introduction
+Source Code
+Output Screens
+Testing and Validation
+Conclusion
 References
 
 
